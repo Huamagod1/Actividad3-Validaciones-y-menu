@@ -1,5 +1,6 @@
 import os, time
 os.system("cls")
+#Ultimo comentario para comprobar si se subio a git
 
 banderaMenu = True
 banderaFono = True
